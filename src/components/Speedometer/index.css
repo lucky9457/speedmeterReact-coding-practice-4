@@ -1,0 +1,41 @@
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+}
+.main {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.hh {
+  font-size: 30px;
+  color: white;
+}
+.pp {
+  color: bisque;
+}
+.b1 {
+  background-color: blue;
+  color: white;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 10px;
+}
+.b2 {
+  border: solid 1px white;
+  background-color: black;
+  border-radius: 10px;
+  color: white;
+  margin: 10px;
+  padding: 10px;
+}
+.im {
+  height: 200px;
+}
+.bb {
+  display: flex;
+  justify-content: center;
+}
